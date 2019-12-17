@@ -1,0 +1,9 @@
+CREATE DATABASE college
+CREATE DATABASE student
+DROP DATABASE student
+CREATE TABLE college.student
+CREATE TABLE college.students
+DROP TABLE college.students
+INSERT "John Smith" INTO college.student
+INSERT "John Smith" INTO college.students
+INSERT "Justa Beeper" INTO college.student

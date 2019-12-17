@@ -1,0 +1,1 @@
+INSERT "John Smith" INTO college.students;
